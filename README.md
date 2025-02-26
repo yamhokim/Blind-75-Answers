@@ -6,9 +6,9 @@
 
 - Two Sum - https://leetcode.com/problems/two-sum/ - DONE
 - Best Time to Buy and Sell Stock - https://leetcode.com/problems/best-time-to-buy-and-sell-stock/ - DONE
-- Contains Duplicate - https://leetcode.com/problems/contains-duplicate/ -
-- Product of Array Except Self - https://leetcode.com/problems/product-of-array-except-self/
-- Maximum Subarray - https://leetcode.com/problems/maximum-subarray/
+- Contains Duplicate - https://leetcode.com/problems/contains-duplicate/ - DONE
+- Product of Array Except Self - https://leetcode.com/problems/product-of-array-except-self/ - DONE
+- Maximum Subarray - https://leetcode.com/problems/maximum-subarray/ - DONE
 - Maximum Product Subarray - https://leetcode.com/problems/maximum-product-subarray/
 - Find Minimum in Rotated Sorted Array - https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/
 - Search in Rotated Sorted Array - https://leetcode.com/problems/search-in-rotated-sorted-array/
