@@ -10,9 +10,9 @@
 - Product of Array Except Self - https://leetcode.com/problems/product-of-array-except-self/ - DONE
 - Maximum Subarray - https://leetcode.com/problems/maximum-subarray/ - DONE
 - Maximum Product Subarray - https://leetcode.com/problems/maximum-product-subarray/
-- Find Minimum in Rotated Sorted Array - https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/
-- Search in Rotated Sorted Array - https://leetcode.com/problems/search-in-rotated-sorted-array/
-- 3Sum - https://leetcode.com/problems/3sum/
+- Find Minimum in Rotated Sorted Array - https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/ - DONE (REVIEW IT)
+- Search in Rotated Sorted Array - https://leetcode.com/problems/search-in-rotated-sorted-array/ - DONE (REVIEW IT)
+- 3Sum - https://leetcode.com/problems/3sum/ - DONE (REVIEW IT)
 - Container With Most Water - https://leetcode.com/problems/container-with-most-water/
 
 ---
