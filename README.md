@@ -13,7 +13,7 @@
 - Find Minimum in Rotated Sorted Array - https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/ - DONE (REVIEW IT)
 - Search in Rotated Sorted Array - https://leetcode.com/problems/search-in-rotated-sorted-array/ - DONE (REVIEW IT)
 - 3Sum - https://leetcode.com/problems/3sum/ - DONE (REVIEW IT)
-- Container With Most Water - https://leetcode.com/problems/container-with-most-water/
+- Container With Most Water - https://leetcode.com/problems/container-with-most-water/ - DONE
 
 ---
 
@@ -68,8 +68,8 @@
 
 ### Linked List
 
-- Reverse a Linked List - https://leetcode.com/problems/reverse-linked-list/
-- Detect Cycle in a Linked List - https://leetcode.com/problems/linked-list-cycle/
+- Reverse a Linked List - https://leetcode.com/problems/reverse-linked-list/ - DONE (REVIEW THIS)
+- Detect Cycle in a Linked List - https://leetcode.com/problems/linked-list-cycle/ - DONE
 - Merge Two Sorted Lists - https://leetcode.com/problems/merge-two-sorted-lists/
 - Merge K Sorted Lists - https://leetcode.com/problems/merge-k-sorted-lists/
 - Remove Nth Node From End Of List - https://leetcode.com/problems/remove-nth-node-from-end-of-list/
