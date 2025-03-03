@@ -4,42 +4,41 @@
 #         self.val = val
 #         self.next = next
 class Solution:
-    def mergeTwoLists(self, list1, list2):
+    def mergeTwoLists(self, l1, l2):
         dummy = ListNode()
         tail = dummy
-
-        while list1 and list2:
-            if list1.val <= list2.val:
-                tail.next = list1
-                tail = list1
-                list1 = list1.next
+        while l1 and l2:
+            if l1.val <= l2.val:
+                tail.next = l1
+                tail = l1
+                l1 = l1.next
             else:
-                tail.next = list2
-                tail = list2
-                list2 = list2.next
+                tail.next = l2
+                tail = l2
+                l2 = l2.next
         
-        if list1:
-            tail.next = list1
-        elif list2:
-            tail.next = list2
-
+        if l1:
+            tail.next = l1
+        elif l2:
+            tail.next = l2
+        
         return dummy.next
 
     def mergeKLists(self, lists: List[Optional[ListNode]]) -> Optional[ListNode]:
-        if lists is None or lists == [] or len(lists) == 0:
+        if len(lists) == 0 or lists == None or lists == []:
             return None
-        
+
         while len(lists) > 1:
             mergedLists = []
-
             for i in range(0, len(lists), 2):
                 l1 = lists[i]
                 if (i+1) < len(lists):
                     l2 = lists[i+1]
                 else:
                     l2 = None
-                merged_pair = self.mergeTwoLists(l1, l2)
-                mergedLists.append(merged_pair)
+                mergedPair = self.mergeTwoLists(l1, l2)
+                mergedLists.append(mergedPair)
             lists = mergedLists
-
+        
         return lists[0]
+    
