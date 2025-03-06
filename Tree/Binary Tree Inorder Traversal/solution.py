@@ -35,20 +35,19 @@ Iterative Solution
 #         self.right = right
 class Solution:
     def inorderTraversal(self, root: Optional[TreeNode]) -> List[int]:
+        res = []
         if root is None:
-            return []
+            return res
         
         stack = []
-        output = []
         curr = root
-
-        while len(stack) > 0 or curr:
+        while curr or len(stack) > 0:
             while curr:
                 stack.append(curr)
                 curr = curr.left
             
             curr = stack.pop()
-            output.append(curr.val)
+            res.append(curr.val)
             curr = curr.right
-
-        return output
+        
+        return res
