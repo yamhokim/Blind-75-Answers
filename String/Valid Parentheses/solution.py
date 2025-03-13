@@ -1,6 +1,6 @@
 class Solution:
     def isValid(self, s: str) -> bool:
-        bracket_pairs = {"]": "[", ")": "(", "}": "{"}
+        bracket_pairs = {")": "(", "]": "[", "}": "{"}
         if s[0] in bracket_pairs:
             return False
 
@@ -11,7 +11,8 @@ class Solution:
                     stack.pop()
                 else:
                     return False
+
             else:
                 stack.append(s[i])
-
-        return True if not stack else False
+        
+        return True if len(stack) == 0 else False
