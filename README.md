@@ -95,8 +95,8 @@
 - Group Anagrams - https://leetcode.com/problems/group-anagrams/ - DONE
 - Valid Parentheses - https://leetcode.com/problems/valid-parentheses/ - DONE (REVIEW THIS)
 - Valid Palindrome - https://leetcode.com/problems/valid-palindrome/ - DONE
-- Longest Palindromic Substring - https://leetcode.com/problems/longest-palindromic-substring/
-- Palindromic Substrings - https://leetcode.com/problems/palindromic-substrings/
+- Longest Palindromic Substring - https://leetcode.com/problems/longest-palindromic-substring/ - DONE (REVIEW THIS)
+- Palindromic Substrings - https://leetcode.com/problems/palindromic-substrings/ - DONE
 - Encode and Decode Strings (Leetcode Premium) - https://leetcode.com/problems/encode-and-decode-strings/
 
 ---
