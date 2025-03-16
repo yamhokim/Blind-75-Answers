@@ -90,7 +90,7 @@
 
 - Longest Substring Without Repeating Characters - https://leetcode.com/problems/longest-substring-without-repeating-characters/ - DONE (REVIEW THIS)
 - Longest Repeating Character Replacement - https://leetcode.com/problems/longest-repeating-character-replacement/ - DONE (REVIEW THIS)
-- Minimum Window Substring - https://leetcode.com/problems/minimum-window-substring/
+- Minimum Window Substring - https://leetcode.com/problems/minimum-window-substring/ - DONE (REVIEW THIS)
 - Valid Anagram - https://leetcode.com/problems/valid-anagram/ - DONE
 - Group Anagrams - https://leetcode.com/problems/group-anagrams/ - DONE
 - Valid Parentheses - https://leetcode.com/problems/valid-parentheses/ - DONE (REVIEW THIS)
