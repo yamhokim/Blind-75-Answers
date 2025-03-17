@@ -58,10 +58,10 @@
 
 ### Interval
 
-- Insert Interval - https://leetcode.com/problems/insert-interval/
-- Merge Intervals - https://leetcode.com/problems/merge-intervals/
-- Non-overlapping Intervals - https://leetcode.com/problems/non-overlapping-intervals/
-- Meeting Rooms (Leetcode Premium) - https://leetcode.com/problems/meeting-rooms/
+- Insert Interval - https://leetcode.com/problems/insert-interval/ - DONE (REVIEW THIS)
+- Merge Intervals - https://leetcode.com/problems/merge-intervals/ - DONE (REVIEW THIS)
+- Non-overlapping Intervals - https://leetcode.com/problems/non-overlapping-intervals/ - DONE (REVIEW THIS)
+- Meeting Rooms (Leetcode Premium) - https://leetcode.com/problems/meeting-rooms/ - DONE
 - Meeting Rooms II (Leetcode Premium) - https://leetcode.com/problems/meeting-rooms-ii/
 
 ---
