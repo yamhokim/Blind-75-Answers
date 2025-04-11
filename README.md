@@ -58,10 +58,10 @@
 
 ### Interval
 
-- Insert Interval - https://leetcode.com/problems/insert-interval/
-- Merge Intervals - https://leetcode.com/problems/merge-intervals/
-- Non-overlapping Intervals - https://leetcode.com/problems/non-overlapping-intervals/
-- Meeting Rooms (Leetcode Premium) - https://leetcode.com/problems/meeting-rooms/
+- Insert Interval - https://leetcode.com/problems/insert-interval/ - DONE
+- Merge Intervals - https://leetcode.com/problems/merge-intervals/ - DONE
+- Non-overlapping Intervals - https://leetcode.com/problems/non-overlapping-intervals/ - DONE
+- Meeting Rooms (Leetcode Premium) - https://leetcode.com/problems/meeting-rooms/ - DONE
 - Meeting Rooms II (Leetcode Premium) - https://leetcode.com/problems/meeting-rooms-ii/
 
 ---
@@ -122,7 +122,7 @@
 
 ### Heap
 
-- Merge K Sorted Lists - https://leetcode.com/problems/merge-k-sorted-lists/
+- Merge K Sorted Lists - https://leetcode.com/problems/merge-k-sorted-lists/ - DONE
 - Top K Frequent Elements - https://leetcode.com/problems/top-k-frequent-elements/
 - Find Median from Data Stream - https://leetcode.com/problems/find-median-from-data-stream/
 
