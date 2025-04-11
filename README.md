@@ -45,7 +45,7 @@
 
 ### Graph
 
-- Clone Graph - https://leetcode.com/problems/clone-graph/
+- Clone Graph - https://leetcode.com/problems/clone-graph/ - DONE (REVIEW THIS)
 - Course Schedule - https://leetcode.com/problems/course-schedule/
 - Pacific Atlantic Water Flow - https://leetcode.com/problems/pacific-atlantic-water-flow/
 - Number of Islands - https://leetcode.com/problems/number-of-islands/
@@ -123,7 +123,7 @@
 ### Heap
 
 - Merge K Sorted Lists - https://leetcode.com/problems/merge-k-sorted-lists/ - DONE
-- Top K Frequent Elements - https://leetcode.com/problems/top-k-frequent-elements/
-- Find Median from Data Stream - https://leetcode.com/problems/find-median-from-data-stream/
+- Top K Frequent Elements - https://leetcode.com/problems/top-k-frequent-elements/ - DONE
+- Find Median from Data Stream - https://leetcode.com/problems/find-median-from-data-stream/ - DONE
 
 You're welcome!
